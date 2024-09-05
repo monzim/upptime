@@ -19,12 +19,24 @@ sites:
     url: https://openchat.monzim.com
   - name: OpenChat API
     url: https://openchat-uriepmo.monzim.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: kepathalo
     url: https://kepathalo.monzim.com
   - name: niu-analytics
     url: https://niu-analytics.monzim.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: SongKhep
     url: https://songkhep.monzim.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: Aurora Docs
     url: https://docs.aurora.monzim.com
 
