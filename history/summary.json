@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/openchat-uriepmo.monzim.com.ico",
     "slug": "open-chat-api",
     "status": "up",
-    "uptime": "4.11%",
-    "uptimeDay": "4.11%",
-    "uptimeWeek": "4.11%",
-    "uptimeMonth": "4.11%",
-    "uptimeYear": "4.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 145,
     "timeWeek": 145,
     "timeMonth": 145,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2024-09-05": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kepathalo",
@@ -99,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/niu-analytics.monzim.com.ico",
     "slug": "niu-analytics",
     "status": "up",
-    "uptime": "3.36%",
-    "uptimeDay": "3.36%",
-    "uptimeWeek": "3.36%",
-    "uptimeMonth": "3.36%",
-    "uptimeYear": "3.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2024-09-05": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SongKhep",
@@ -119,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/songkhep.monzim.com.ico",
     "slug": "song-khep",
     "status": "up",
-    "uptime": "2.16%",
-    "uptimeDay": "2.16%",
-    "uptimeWeek": "2.16%",
-    "uptimeMonth": "2.16%",
-    "uptimeYear": "2.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 104,
     "timeWeek": 104,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {
-      "2024-09-05": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Aurora Docs",
