@@ -41,13 +41,14 @@ sites:
     url: https://docs.aurora.monzim.com
 
 status-website:
+  theme: light
   baseUrl: /upptime
   logoUrl: https://storage-portfolio.monzim.com/monzim-logo.svg
   name: Uptime
-  introTitle: "**Uptime** Status of services"
+  introTitle: "**Uptime** of Services"
   introMessage:
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
