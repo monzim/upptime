@@ -51,8 +51,8 @@ status-website:
   theme: light
   baseUrl: /upptime
   logoUrl: https://storage-portfolio.monzim.com/monzim-logo.svg
-  name: Uptime
-  introTitle: "**Uptime** of Services"
+  name: Monzim - Uptime
+  introTitle: "**Uptime** of Services from Monzim"
   introMessage:
   navbar:
     - title: Status
