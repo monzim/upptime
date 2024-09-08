@@ -1,6 +1,5 @@
-owner: monzim # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: monzim 
+repo: upptime 
 
 sites:
   - name: Portfolio
@@ -39,6 +38,14 @@ sites:
       - 403
   - name: Aurora Docs
     url: https://docs.aurora.monzim.com
+  
+  - name: UCAM Protector Chrome Extension
+    url: $UCAM_PROTECTOR_PING
+    headers:
+      - "x-appwrite-project: $UCAM_PROTECTOR_PROJECT_ID"
+      - "Content-Type: application/json"
+    expectedStatusCodes:
+      - 200
 
 status-website:
   theme: light
