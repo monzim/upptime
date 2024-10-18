@@ -88,7 +88,7 @@
     "timeMonth": 100,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2024-10-18": 51,
+      "2024-10-18": 993,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -193,7 +193,7 @@
     "url": "$UCAM_PROTECTOR_PING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ucam-protector-chrome-extension",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -204,6 +204,8 @@
     "timeWeek": 581,
     "timeMonth": 554,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   }
 ]
