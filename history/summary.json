@@ -40,9 +40,9 @@
     "url": "https://openchat.monzim.com",
     "icon": "https://icons.duckduckgo.com/ip3/openchat.monzim.com.ico",
     "slug": "open-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 706,
     "timeMonth": 1120,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "OpenChat API",
@@ -88,7 +90,7 @@
     "timeMonth": 93,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2024-10-22": 52,
+      "2024-10-22": 239,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -179,9 +181,9 @@
     "url": "https://docs.aurora.monzim.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.aurora.monzim.com.ico",
     "slug": "aurora-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,7 +192,9 @@
     "timeWeek": 109,
     "timeMonth": 116,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "UCAM Protector Chrome Extension",
