@@ -1,7 +1,7 @@
 url: $UCAM_PROTECTOR_PING
-status: down
-code: 500
-responseTime: 802
-lastUpdated: 2024-11-26T19:23:46.739Z
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2024-11-26T19:28:56.022Z
 startTime: 2024-09-08T16:38:07.890Z
 generator: Upptime <https://github.com/upptime/upptime>
