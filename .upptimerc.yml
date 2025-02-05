@@ -8,12 +8,14 @@ sites:
       - 200
       - 201
       - 403
+
   - name: VPD Calculator
     url: https://vpd.monzim.com
     expectedStatusCodes:
       - 200
       - 201
       - 403
+
   - name: OpenChat
     url: https://openchat.monzim.com
   - name: OpenChat API
@@ -22,6 +24,17 @@ sites:
       - 200
       - 201
       - 403
+
+  - name: UIU EduQueue
+    url: https://eduqueue.monzim.com
+
+  - name: UIU EduQueue Api
+    url: https://kash_meranaseb_itna_mehrbanhota-kizarapehle_mulaqat_hojati_unse.monzim.com/api/health
+    method: GET
+    expectedStatusCodes:
+      - 200
+      - 403
+
   - name: kepathalo
     url: https://kepathalo.monzim.com
   - name: niu-analytics
@@ -30,6 +43,7 @@ sites:
       - 200
       - 201
       - 403
+
   - name: SongKhep
     url: https://songkhep.monzim.com
     expectedStatusCodes:
@@ -38,7 +52,7 @@ sites:
       - 403
   - name: Aurora Docs
     url: https://docs.aurora.monzim.com
-  
+
   - name: UCAM Protector Chrome Extension
     url: $UCAM_PROTECTOR_PING
     headers:
