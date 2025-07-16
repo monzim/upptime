@@ -40,9 +40,9 @@
     "url": "https://openchat.monzim.com",
     "icon": "https://icons.duckduckgo.com/ip3/openchat.monzim.com.ico",
     "slug": "open-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -52,6 +52,7 @@
     "timeMonth": 1935,
     "timeYear": 1453,
     "dailyMinutesDown": {
+      "2025-07-16": 0,
       "2025-04-03": 40,
       "2024-10-22": 18
     }
@@ -91,7 +92,7 @@
     "timeMonth": 107,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2025-07-16": 65,
+      "2025-07-16": 1373,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -279,11 +280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kepathalo.monzim.com.ico",
     "slug": "kepathalo",
     "status": "down",
-    "uptime": "71.63%",
+    "uptime": "71.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.63%",
+    "uptimeYear": "71.71%",
     "time": 97,
     "timeDay": 98,
     "timeWeek": 93,
@@ -423,9 +424,9 @@
     "url": "https://docs.aurora.monzim.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.aurora.monzim.com.ico",
     "slug": "aurora-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -435,6 +436,7 @@
     "timeMonth": 111,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2025-07-16": 0,
       "2024-10-22": 17
     }
   },
